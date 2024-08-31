@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-my-plugin",
+	"name": "My Plugin",
+	"version": "0.1.0",
+	"minAppVersion": "1.6.0",
+	"description": "",
+	"author": "",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}
