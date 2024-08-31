@@ -4,7 +4,7 @@ This repository serves as a template to quickly create a new Obsidian plugin. It
 
 ## Getting Started
 
-1. **Clone this repository.**
+1. **Clone or Fork this repository.**
 2. **Replace placeholders:**
    - Search for `MyPlugin`, `my-plugin`, and `my-name` throughout the codebase.
    - Replace these placeholders with your plugin's actual name, its slug (lowercase with hyphens), and your own name, respectively.

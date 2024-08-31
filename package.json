@@ -12,7 +12,7 @@
 		"obsidian",
 		"plugin"
 	],
-	"author": "",
+	"author": "my-name",
 	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "^16.11.6",
