@@ -32,4 +32,4 @@ jobs:
           gh release create "$tag" \
             --title="$tag" \
             --notes-file=RELEASE.md \
-            main.js manifest.json styles.css
+            main.js manifest.json
