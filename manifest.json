@@ -6,5 +6,6 @@
 	"description": "",
 	"author": "my-name",
 	"authorUrl": "",
-	"isDesktopOnly": true
+	"isDesktopOnly": true,
+	"fundingUrl": ""
 }
