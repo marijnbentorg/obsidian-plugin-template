@@ -2,7 +2,7 @@ import { Plugin } from 'obsidian';
 import { MyPluginSettingTab } from './settings';
 import { MyPluginSettings, DEFAULT_SETTINGS } from './types';
 
-export default class MyPlugin extends Plugin {
+export default class MyPluginPlugin extends Plugin {
     settings: MyPluginSettings;
 
     async onload() {
