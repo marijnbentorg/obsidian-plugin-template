@@ -14,8 +14,6 @@ export class MyPluginSettingTab extends PluginSettingTab {
 
         containerEl.empty();
 
-        new Setting(containerEl).setName('MyPlugin').setHeading();
-
         new Setting(containerEl)
             .setName('Bool Setting')
             .setDesc('With description.')
